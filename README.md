@@ -6,7 +6,7 @@ There are 2 features, namely ```ChatGPT(text)``` and ```DALL-E(Text To Image)```
 
 - Please create apikey first [Here](https://beta.openai.com/account/api-keys)
 
-- Replace ApiKey OpenAI in file [key.json](https://github.com/AQBhaiOfficial/WAOpenAI-Bot/)
+- Replace ApiKey OpenAI in file [key.json](https://github.com/Bedaun/Tesbot/)
 
 ## Install
 
@@ -18,9 +18,9 @@ Install [NodeJS](https://nodejs.org/en/download/)
 
 ```bash
 
-$ git clone https://github.com/AQBhaiOfficial/WA-OpenAI-Bot
+$ git clone [https://github.com/Bedaun/Tesbot]
 
-$ cd WA-OpenAI-Bot
+$ cd Tesbot
 
 $ npm install
 
@@ -46,9 +46,9 @@ Please manually install ```node_modules``` first, because in Termux when install
 
 $ pkg install git nodejs -y
 
-$ git clone https://github.com/AQBhaiOfficial/WA-OpenAI-Bot
+$ git clone https://github.com/Bedaun/Tesbot
 
-$ cd WA-OpenAI-Bot
+$ cd Tesbot
 
 ```
 
@@ -64,9 +64,7 @@ $ pm2 start node index.js
 
 **Follow us on Youtube & Instagram** <br>
 
-https://www.youtube.com/AQBhaiOfficial <br>
 
-https://www.instagram.com/AQBhaiOfficial
 
 **Specifically Thanks To**
 
